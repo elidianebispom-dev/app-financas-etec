@@ -19,7 +19,7 @@ export default function Dashboard(){
 
                         <View style={styles.User}>
                             <Text style={styles.UserGreeting}>Olá</Text>    
-                            <Text style={styles.UserName}>Caio Malheiros</Text>
+                            <Text style={styles.UserName}>Elidiane Martins</Text>
                         </View>
                     </View>
 
